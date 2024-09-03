@@ -29,3 +29,4 @@ print("Your favorite animal is a"+ favorite_animal)
 # the plus sign is used to concatenate strings
 # lets do some practice
 # I am having fun with coding
+# I learned the meaning of interpreted language today :D
