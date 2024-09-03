@@ -17,22 +17,15 @@ print("Hello,", name)
 #print out the food
 age = input("What is your age?")
 print("Your age is" + age)
-
 color = input("What is your favorite color?")
 print("Your favorite color is" + color)
-
 food = input("What is your favorite food?")
 print("Your favorite food is" + food)
-
 #concatenation is the process of combining string with variables
 #variables
 # print("You are", age, "years old")
 favorite_animal = input("What is your favorite animal?")
 print("Your favorite animal is a"+ favorite_animal)
 # the plus sign is used to concatenate strings
-
-
 # lets do some practice
-
-
 # I am having fun with coding
